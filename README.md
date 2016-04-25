@@ -1,6 +1,6 @@
 # Polymer_Portfolio
 
-This code is a simple, personal, and visual portfolio. For now, it is dedicated to be used on mrihani.vvv.enseirb-matmeca.fr (not yet).
+This code is a simple, personal, and visual portfolio. In a near future, it will be dedicated to be used on mrihani.vvv.enseirb-matmeca.fr .
 
 It is based on [Polymer 1.0](https://www.polymer-project.org/) [Starter Kit Project](https://github.com/PolymerElements/polymer-starter-kit).
 
