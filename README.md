@@ -14,7 +14,7 @@ It is based on [Polymer 1.0](https://www.polymer-project.org/) [Starter Kit Proj
 * Optional offline setup through [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Service Worker elements
 * End-to-end Build Tooling (including [Vulcanize](https://github.com/Polymer/vulcanize))
 * [Recipes](/docs/README.md/) for ES2015 support, Polymer performance, using Chrome Dev Editor, Deploying to GitHub Pages, Deploying to Firebase, Mobile Chrome Apps and lint tools.
-* 
+
 ## Getting Started
 
 To take advantage of this project you need to:
